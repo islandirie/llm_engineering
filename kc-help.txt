@@ -17,5 +17,5 @@ conda env create -f environment.yml
 
 # conda deactivate
 
-# run jupyter
+# If starting from scratch, run "conda activate llms", then, run jupyter lab
 jupyter lab
