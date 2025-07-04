@@ -192,3 +192,6 @@ scraper_cache/
 
 # kc additionals
 *.ak
+# Ignore all troubleshooting files recursively
+**/troubleshooting*
+*troubleshooting*
